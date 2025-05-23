@@ -370,8 +370,7 @@ img {
 	max-width: 1200px;
 	margin: 0 auto;
 	width: 90%;
-    margin-top: -370px;
-	margin-bottom: -140px;
+    
 }
 #contact .contact-items {
 	/* max-width: 400px; */
@@ -568,7 +567,7 @@ img {
 	max-width: 1200px;
 	margin: 0 auto;
 	padding: 100px 20px;
-	margin-top: -130px;
+	
 }
 #about .col-left {
 	width: 250px;
@@ -576,7 +575,7 @@ img {
 }
 #about .col-right {
 	width: 100%;
-	 margin-top: -100px;
+	
 }
 #about .col-right h2 {
 	font-size: 1.8rem;
